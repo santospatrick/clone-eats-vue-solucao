@@ -4,6 +4,7 @@
       <img src="/assets/search.svg" alt="Search Icon" /><input
         type="text"
         placeholder="Pesquisar restaurante"
+        v-model="search"
       />
     </div>
     <PlaceList />

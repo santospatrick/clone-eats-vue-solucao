@@ -3,7 +3,7 @@
 
 ![Uber Eats clone com Vue!](docs/README.jpg)
 
-* Demonstração do produto final (Em breve)
+* [Demonstração do produto final](https://agile-hollows-21544.herokuapp.com/)
 * [English Version](README_EN.md)
 
 ## Configuração

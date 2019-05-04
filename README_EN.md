@@ -3,7 +3,7 @@
 
 ![Uber Eats clone with Vue!](docs/README.jpg)
 
-* Final product demo (Coming soon)
+* [Final product demo](https://agile-hollows-21544.herokuapp.com/)
 
 ## Setup
 1. Install [git](https://git-scm.com/downloads)
