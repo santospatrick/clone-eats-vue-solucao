@@ -23,7 +23,7 @@ export default new Router({
       path: "/:id",
       name: "place",
       component: () =>
-        import(/* webpackChunkName: "about" */ "@/routes/Place.vue")
+        import(/* webpackChunkName: "place" */ "@/routes/Place.vue")
     }
   ]
 });
